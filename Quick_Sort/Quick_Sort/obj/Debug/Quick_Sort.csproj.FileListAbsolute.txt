@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Quick_Sort\Quick_Sort\bin\Debug\Quick_Sort.exe.config
+C:\Users\HP\source\repos\Quick_Sort\Quick_Sort\bin\Debug\Quick_Sort.exe
+C:\Users\HP\source\repos\Quick_Sort\Quick_Sort\bin\Debug\Quick_Sort.pdb
+C:\Users\HP\source\repos\Quick_Sort\Quick_Sort\obj\Debug\Quick_Sort.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Quick_Sort\Quick_Sort\obj\Debug\Quick_Sort.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Quick_Sort\Quick_Sort\obj\Debug\Quick_Sort.exe
+C:\Users\HP\source\repos\Quick_Sort\Quick_Sort\obj\Debug\Quick_Sort.pdb
